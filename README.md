@@ -8,7 +8,7 @@
 1. [Preprocessing_script](#Preprocessing_script)
 2. [Parsing_script](#Parsing_script)
 3. [Info](#info)
-4. [dataset](#dataset) 
+4. [pred](#pred) 
 5. [Person](#Person)
 
 **>model**
@@ -31,6 +31,11 @@
 **>Parsing_script**
 
 В папке находятся скрипты для парсинга сайтов
+
+**>Parsing_script**
+
+Топ предсказанных 1.
+
 
 **>info**
 
