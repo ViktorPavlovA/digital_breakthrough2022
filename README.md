@@ -52,7 +52,7 @@
 
 Анастасия Тимошина <anastasiia.41297@gmail.com>
 
-Богдан Барабанщиков <boltik1993@gmail.com>
+Богдан Барабанщиков <boltik1993@gmail.com> (https://github.com/bogdal1993)
 
 Павлов Виктор <viktor.pavlov.1998@list.ru> (https://github.com/ViktorPavlovA)
 
